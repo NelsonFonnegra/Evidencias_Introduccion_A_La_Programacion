@@ -4,7 +4,8 @@
 ## Sesión 6
 
 
-<!-- Su documentación aquí -->
+# PRIMER PARCIAL
+## Evaluación en clase.
 
 
 
