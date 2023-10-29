@@ -122,6 +122,3 @@ section {
     text-align: center;
 }
 ```
-
-
-
